@@ -1,0 +1,10 @@
+1.install putty
+2.open putty and check SSH -AUTH- BROWSE AND UPLOAD THE PPK FILE.
+3.go to session put the ip address of testing as host name save the session name
+4. click on load
+5.login as ubuntu
+6.change the root name sudo su
+7.chang the directories cd /var/www/html/skyduc(folder name)
+8.then git pull origin beta_merge
+9.if you want to make ay changes then do nano file name
+10.dnt forget to checkout after testing done.
